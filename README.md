@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi I'm learning this gethub on my own and haven't had much time really work on it. I could use a mentor.Thanks ### Hi there 👋
 
 <!--
 **Billyum50/Billyum50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
